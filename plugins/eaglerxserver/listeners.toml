@@ -69,7 +69,8 @@
 	# contents of the listener's MOTD, which is the text displayed along with the
 	# server_icon when players add this server's listener address to their client's
 	# Multiplayer menu server list.
-	server_motd = ["&4&lPie SMP&r: &9We're an actual eaglercraft server now! \n &9&lSurvival "]
+	# Why r u changing this
+	server_motd = ["&4&lPie SMP&r: &9Backup link! \n &9&lSurvival "]
 	# Default value is true, is this listener should respond to MOTD queries or not
 	allow_motd = true
 	# Default value is true, is this listener should respond to other query types or
